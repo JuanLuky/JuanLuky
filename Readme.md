@@ -2,7 +2,7 @@
 ##  Eu sou 👋 Juan Carlos
 - Brasileiro ⛱️
 - Desenvolvedor Front-End 🖱️
-- Buscando Conhecimento 📘
+- Gosto de Café ☕
 
 ## Redes Sociais
 <a href="https://www.instagram.com/ujuan._/?hl=pt-br">

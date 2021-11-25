@@ -2,7 +2,7 @@
 ##  Eu sou 👋 Juan Carlos
 - Brasileiro ⛱️
 - Desenvolvedor Front-End 🖱️
-- Gosto de Café ☕
+- Code + LoFi + Coffee ☕
 
 ![gif](https://user-images.githubusercontent.com/86580442/134430929-93f7668d-f13f-40db-af94-2fe25ac10aa8.gif)
 
@@ -33,11 +33,6 @@
         <img align="center" alt="HTML" height="30" margin-left="10" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
         <img align="center" alt="CSS" margin-left="10" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
     </div>
-    <div>
-        <img align="center" alt="React" height="30" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" style="max-width:100%;">
-        <img align="center" alt="Sass" height="25" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" style="max-width:100%;">
-        <img align="center" alt="boot" height="30" width="35" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" style="max-width:100%;">
-    <div>
 </div>
 
 ## Estudando

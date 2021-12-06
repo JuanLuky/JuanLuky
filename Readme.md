@@ -1,6 +1,5 @@
 ### Bem vindo
 ##  Eu sou 👋 Juan Carlos
-- Brasileiro ⛱️
 - Desenvolvedor Front-End 🖱️
 - Code + LoFi + Coffee ☕
 

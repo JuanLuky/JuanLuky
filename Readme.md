@@ -1,11 +1,12 @@
-### Bem vindo
-##  Eu sou 👋 Juan Carlos
-- Desenvolvedor Front-End 🖱️
-- Code + LoFi + Coffee ☕
+#### *Bem vindo*
+##  👋 *Olá, me chamo Juan Carlos*
+🖱️ *Sou* ***Desenvolvedor Front-End***
+
+☕ ***Code + LoFi + Coffee*** 
 
 ![gif](https://user-images.githubusercontent.com/86580442/134430929-93f7668d-f13f-40db-af94-2fe25ac10aa8.gif)
 
-## Redes Sociais
+## 🌍 *Redes Sociais*
 <div style="display=flex;">
 <a href="https://www.instagram.com/ujuan._/?hl=pt-br" target="_blank">
 <img align="center" height="30" whidth="40" src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-whidth:100%;">
@@ -27,20 +28,15 @@
 </a>
 </div>
 
-## Experiências
+## 🧠 *Habilidades*
 <div style="display=flex;">
     <div>
         <img align="center" alt="Js" margin-left="10" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
         <img align="center" alt="HTML" height="30" margin-left="10" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
         <img align="center" alt="CSS" margin-left="10" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
-    </div>
-</div>
-
-## Estudando
-<div style="display=flex;">
-    <div>
         <img align="center" alt="React" margin-left="10"  height="30" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" style="max-width:100%;">
         <img align="center" alt="Sass" margin-left="10"  height="25" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" style="max-width:100%;">
         <img align="center" alt="boot" margin-left="10"  height="30" width="35" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" style="max-width:100%;">
-    <div>
+    </div>
 </div>
+

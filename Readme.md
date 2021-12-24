@@ -1,10 +1,5 @@
-#### *Bem vindo*
-##  👋 *Olá, me chamo Juan Carlos*
-🖱️ *Sou* ***Desenvolvedor Front-End***
+![lukygit](https://user-images.githubusercontent.com/86580442/147313222-ea8e1ba2-d655-42e1-bdf0-8227ec253e91.png)
 
-☕ ***Code + LoFi + Coffee*** 
-
-![gif](https://user-images.githubusercontent.com/86580442/134430929-93f7668d-f13f-40db-af94-2fe25ac10aa8.gif)
 
 ## 🌍 *Redes Sociais*
 <div style="display=flex;">

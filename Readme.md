@@ -1,7 +1,12 @@
 ![bannerJuan](https://user-images.githubusercontent.com/86580442/147711664-fa3061af-2d0f-4aae-a061-bd15f234f00b.jpg)
 
+## About me:
+- 💻 I'm web developer
+- 🤟 Passionate about challenges
+- 🚀 Studying at @rocketseat
 
-## 🌍 *Redes Sociais*
+### 🌍 Social Networks
+
 <div style="display=flex;">
 <a href="https://www.instagram.com/ujuan._/?hl=pt-br" target="_blank">
 <img align="center" height="30" whidth="40" src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-whidth:100%;">
@@ -23,7 +28,8 @@
 </a>
 </div>
 
-## 🧠 *Habilidades*
+### 🧠 Skills
+
 <div style="display=flex;">
     <div>
         <img align="center" alt="Js" margin-left="10" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">

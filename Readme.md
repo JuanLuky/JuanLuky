@@ -1,4 +1,4 @@
-![lukygit](https://user-images.githubusercontent.com/86580442/147313222-ea8e1ba2-d655-42e1-bdf0-8227ec253e91.png)
+![bannerJuan](https://user-images.githubusercontent.com/86580442/147711664-fa3061af-2d0f-4aae-a061-bd15f234f00b.jpg)
 
 
 ## 🌍 *Redes Sociais*

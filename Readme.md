@@ -1,4 +1,4 @@
-![bannerJuan](https://user-images.githubusercontent.com/86580442/147711664-fa3061af-2d0f-4aae-a061-bd15f234f00b.jpg)
+![new](https://user-images.githubusercontent.com/86580442/147713232-8949dcd9-1570-4e2f-ad85-cdc4b75b6f29.png)
 
 ## About me:
 - 💻 I'm web developer

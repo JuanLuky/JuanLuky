@@ -3,7 +3,7 @@
 ## About me:
 - 💻 I'm web developer
 - 🤟 Passionate about challenges
-- 🚀 Student 
+- ⚡ LoFi + Coffee 
 
 ### 🌍 Social Networks
 

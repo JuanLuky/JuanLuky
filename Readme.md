@@ -3,7 +3,7 @@
 ## About me:
 - 💻 I'm web developer
 - 🤟 Passionate about challenges
-- 🚀 Studying at @rocketseat
+- 🚀 Student 
 
 ### 🌍 Social Networks
 

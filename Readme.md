@@ -1,11 +1,14 @@
-![new](https://user-images.githubusercontent.com/86580442/147713232-8949dcd9-1570-4e2f-ad85-cdc4b75b6f29.png)
+![Sem Título-1](https://user-images.githubusercontent.com/86580442/148486695-ef64be60-084f-4a3a-ad22-b894cb9a7785.png)
 
-## About me:
+
+## About me: 
+
 - 💻 I'm web developer
 - 🤟 Passionate about challenges
 - ⚡ LoFi + Coffee 
 
-### 🌍 Social Networks
+## 🌍 Social Networks
+
 
 <div style="display=flex;">
 <a href="https://www.instagram.com/ujuan._/?hl=pt-br" target="_blank">
@@ -28,7 +31,7 @@
 </a>
 </div>
 
-### 🧠 Skills
+## 🧠 Skills
 
 <div style="display=flex;">
     <div>
@@ -39,5 +42,5 @@
         <img align="center" alt="Sass" margin-left="10"  height="25" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" style="max-width:100%;">
         <img align="center" alt="boot" margin-left="10"  height="30" width="35" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" style="max-width:100%;">
     </div>
-</div>
+</div> 
 

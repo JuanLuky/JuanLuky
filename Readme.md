@@ -1,6 +1,3 @@
-![Sem Título-1](https://user-images.githubusercontent.com/86580442/148486695-ef64be60-084f-4a3a-ad22-b894cb9a7785.png)
-
-
 ## About me: 
 
 - 💻 I'm web developer

@@ -32,7 +32,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?style=for-the-badge&logo=amazon-aws)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=fff)
 
 ---
 

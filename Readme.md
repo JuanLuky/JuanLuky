@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Sou o Juan Carlos 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Front-end com experiência sólida em React e Angular, em transição para Fullstack com Spring Boot ☕.<br/>
-  Atuo também como Analista de Suporte N1 e sou apaixonado por resolver problemas com código!
+  💻 Desenvolvedor Software / 🌐 Suporte N1 
 </p>
 
 ---

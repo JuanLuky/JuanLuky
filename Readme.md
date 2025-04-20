@@ -47,7 +47,6 @@
 - 📒 [Sistema de Controle de Estoque - Angular + Spring](#)
 - 🛒 [Sistema de E-commerce - Angular + Spring](#)
 
-*(Atualize os links conforme subir os projetos no GitHub)*
 
 ---
 
@@ -59,5 +58,5 @@
 ---
 
 <p align="center">
-  Feito com 💜 por Juan Carlos Cutrim dos Santos
+  Feito com 💜 por Juan Santos
 </p>
